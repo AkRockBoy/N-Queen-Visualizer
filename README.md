@@ -1,6 +1,6 @@
 1. Introduction
-  The N-Queen Visualizer with Backtracking is a software project aimed at visualizing the backtracking algorithm for solving the N-Queen problem. The project will allow
-  users to input the number of queens they want to place on an N x N chessboard, and the program will find a solution to the problem if one exists.
+
+  The N-Queen Visualizer with Backtracking is a software project aimed at visualizing the backtracking algorithm for solving the N-Queen problem. The project will        allow users to input the number of queens they want to place on an N x N chessboard, and the program will find a solution to the problem if one exists.
 
 2. Functional Requirements
 
